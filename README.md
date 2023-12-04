@@ -30,6 +30,7 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 
 Menentukan subnet berdasarkan rute, jumlah IP, netmask, dan length
 ![Foto](./img/subnetvlsm.png)
+
 - Konfigurasi IP VLSM
 
 Menentukan IP Network ID dan Broadcast tiap subnet serta netmasknya
@@ -51,22 +52,51 @@ Test ping konfigurasi VLSM
 
 ![Foto](./img/topologicidr.png)
 
-- Konfigurasi Subnet VLSM
+- Konfigurasi Subnet CIDR
 
 Menentukan subnet berdasarkan rute, jumlah IP, netmask, dan length
-![Foto](./img/subnetcidrpng)
-- Konfigurasi IP VLSM
+![Foto](./img/subnetcidr.png)
+
+- Konfigurasi IP CIDR
 
 Menentukan IP Network ID dan Broadcast tiap subnet serta netmasknya
 ![Foto](./img/ipcidr.png)
 
-- Tree VLSM
+- Penggabungan Subnet
+
+> Pengabungan Pertama (B)
+![Foto](./img/b_cidr.png)
+
+> Pengabungan Kedua (C)
+![Foto](./img/c_cidr.png)
+
+> Pengabungan Ketiga (D)
+![Foto](./img/d_cidr.png)
+
+> Pengabungan Keempat (E)
+![Foto](./img/e_cidr.png)
+
+> Pengabungan Kelima (F)
+![Foto](./img/f_cidr.png)
+
+> Pengabungan Keenam (G)
+![Foto](./img/g_cidr.png)
+
+> Pengabungan Ketujuh (H)
+![Foto](./img/h_cidr.png)
+
+> Pengabungan Kedelapan (I)
+![Foto](./img/i_cidr.png)
+
+- Tree CIDR
 
 Membuat tree berdasarkan urutan IP CIDR dengan mask tertinggi
 ![Foto](./img/treecidr.jpeg)
 
-- Testing
-Test ping konfigurasi VLSM
+- Konfigurasi CIDR GNS3
+```
+test
+```
 
 
 
