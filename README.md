@@ -88,6 +88,7 @@ Menentukan IP Network ID dan Broadcast tiap subnet serta netmasknya
 > Pengabungan Kedelapan (I)
 ![Foto](./img/i_cidr.png)
 
+
 - Tree CIDR
 
 Membuat tree berdasarkan urutan IP CIDR dengan mask tertinggi
