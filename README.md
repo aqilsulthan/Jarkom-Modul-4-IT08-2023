@@ -12,6 +12,12 @@ Adimas Defatra Bimasena | 5027211040
  IT08      | 192.237   
 
 ## Modul 4
+Soal dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
+
+Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya
+
+> Untuk pengerjaan soal, kami menggunakan Cisco Packet Tracer untuk metode VLSM dan GNS3 untuk metode CIDR
+
 ### Topologi
 ![Foto](./img/topologi.png)
 
