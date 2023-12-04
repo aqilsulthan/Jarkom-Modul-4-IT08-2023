@@ -64,28 +64,38 @@ Menentukan IP Network ID dan Broadcast tiap subnet serta netmasknya
 
 - Penggabungan Subnet
 
+Melakukan penggabungan subnet
+
 > Pengabungan Pertama (B)
+
 ![Foto](./img/b_cidr.png)
 
 > Pengabungan Kedua (C)
+
 ![Foto](./img/c_cidr.png)
 
 > Pengabungan Ketiga (D)
+
 ![Foto](./img/d_cidr.png)
 
 > Pengabungan Keempat (E)
+
 ![Foto](./img/e_cidr.png)
 
 > Pengabungan Kelima (F)
+
 ![Foto](./img/f_cidr.png)
 
 > Pengabungan Keenam (G)
+
 ![Foto](./img/g_cidr.png)
 
 > Pengabungan Ketujuh (H)
+
 ![Foto](./img/h_cidr.png)
 
 > Pengabungan Kedelapan (I)
+
 ![Foto](./img/i_cidr.png)
 
 
