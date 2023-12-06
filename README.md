@@ -64,7 +64,11 @@ Menentukan IP Network ID dan Broadcast tiap subnet serta netmasknya
 
 - Penggabungan Subnet
 
-Melakukan penggabungan subnet
+Melakukan penggabungan subnet berdasarkan tabel dibawah
+
+![Foto](./img/penggabungancidr.png)
+![Foto](./img/penggabungancidr2.png)
+![Foto](./img/penggabungancidr3.png)
 
 > Pengabungan Pertama (B)
 
@@ -103,11 +107,6 @@ Melakukan penggabungan subnet
 
 Membuat tree berdasarkan urutan IP CIDR dengan mask tertinggi
 ![Foto](./img/treecidr.jpeg)
-
-- Konfigurasi CIDR GNS3
-```
-test
-```
 
 
 
